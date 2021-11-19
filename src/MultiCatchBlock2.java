@@ -9,6 +9,7 @@ public class MultiCatchBlock2 {
         catch (ArithmeticException obj){
             System.out.println("Arithmetic Exception");
         }
+
         catch (ArrayIndexOutOfBoundsException obj1){
             System.out.println("Array Exception");
         }
