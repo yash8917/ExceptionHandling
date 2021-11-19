@@ -1,5 +1,6 @@
 public class CatchBlockExa {
     public static void main(String[] args) {
+        // we can write the high risk code inside the try block
         try{
             int i=50/0;
             // if exception occurs , the remaining statement will not excecute
