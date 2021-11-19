@@ -7,8 +7,10 @@ public class NestedTryBlockExa {
         System.out.println(20/0);
         //Inner try block-1
         try{
+
             // inner try block-2
             try{
+
                 int arr[]={12,3,4,5};
             }// Catch block of inner try block-2
             catch (ArrayIndexOutOfBoundsException obj1){
