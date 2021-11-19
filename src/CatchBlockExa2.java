@@ -7,6 +7,7 @@ public class CatchBlockExa2 {
         catch(ArrayIndexOutOfBoundsException obj){
             System.out.println(obj);// print the exception description
         }
+
         System.out.println("rest of the code");
     }
 }
