@@ -11,6 +11,7 @@ public class CatchBlockExa {
 
             // print the default message to the user.
             System.out.println("Can't divided by zero");
+
         }
         System.out.println("Rest of the code2");
     }
