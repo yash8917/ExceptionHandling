@@ -3,6 +3,8 @@ public class CatchBlockExa2 {
         try{
             int arr[]={1,2,3};
             System.out.println(arr[7]);
+            // if you provide the correct index of the array the compiler not
+//            go to the catch block
         }
         catch(ArrayIndexOutOfBoundsException obj){
             System.out.println(obj);// print the exception description
