@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 //Write a program that takes as input the size of the array and the
@@ -58,7 +59,7 @@ public class ArrayExceptionHandling {
         catch (ArrayIndexOutOfBoundsException obj){
             System.out.println(obj);
         }
-        catch (NumberFormatException obj1){
+        catch (InputMismatchException obj1){
             System.out.println(obj1);
         }
 
