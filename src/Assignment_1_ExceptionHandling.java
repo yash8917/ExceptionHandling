@@ -28,7 +28,6 @@ class Assignment_1_ExceptionHandling{
           int k =Integer.parseInt(i);
             System.out.println("The squre value of :"+(k*k));
             System.out.println("Your programe is run sccessfully");
-
         }
         catch (NumberFormatException obj) {
             System.out.println(obj+"\nEntered input is not a valid format for an Integer");
