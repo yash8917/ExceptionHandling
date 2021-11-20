@@ -19,6 +19,7 @@ class Assignment_1_ExceptionHandling{
     public static void main(String[] args) {
         // for UserInput
         Scanner sc = new Scanner(System.in);
+
 //        Inside the try block we write the high risk code
         try {
             //we can get the Input from the User as a string type
