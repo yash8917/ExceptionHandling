@@ -59,6 +59,7 @@ public class ArrayExceptionHandling {
         catch (ArrayIndexOutOfBoundsException obj){
             System.out.println(obj);
         }
+
         catch (InputMismatchException obj1){
             System.out.println(obj1);
         }
