@@ -62,6 +62,5 @@ public class ArrayExceptionHandling {
         catch (InputMismatchException obj1){
             System.out.println(obj1);
         }
-
 }
 }
