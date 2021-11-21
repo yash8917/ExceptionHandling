@@ -51,7 +51,6 @@ public class ArrayExceptionHandling {
         for (int i = 0; i < n; i++) {
             a[i]=sc.nextInt();
         }
-
             System.out.println("Enter the number what you want to access:");
         int index=sc.nextInt();
             System.out.println("The Array index an "+index+":-"+a[index]);
