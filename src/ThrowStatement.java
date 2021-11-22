@@ -18,4 +18,5 @@ public class ThrowStatement {
          System.out.println("Exception Occur:"+m);
    }
       System.out.println("rest of the code");
-}}
+}
+}
