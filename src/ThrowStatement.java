@@ -10,7 +10,6 @@ public class ThrowStatement {
       else
          System.out.println("Welcome to vote");
    }
-
    public static void main(String[] args) {
       try{
          validation(19);
