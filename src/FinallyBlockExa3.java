@@ -9,6 +9,7 @@ public class FinallyBlockExa3 {
         finally {
             System.out.println("Finally block is always executed");
         }
+        
         System.out.println("Some set of statement");
     }
 }
