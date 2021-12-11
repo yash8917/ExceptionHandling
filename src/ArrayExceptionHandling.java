@@ -20,7 +20,7 @@ import java.util.Scanner;
 //        1
 //        The array element at index 1 = 80
 //        The array element successfully accessed
-//
+
 //
 //        Sample Input and Output 2:
 //        Enter the number of elements in the array
