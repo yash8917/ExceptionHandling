@@ -15,6 +15,7 @@ public class MathOperation {
                 a[i]=sc.nextInt();
                 j=j+a[i];
             }
+            
             double d=j/5;
             System.out.println("The Avg of the :"+d);
             System.out.println("The Sum of the element :"+j);
