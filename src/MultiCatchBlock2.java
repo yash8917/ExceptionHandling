@@ -1,6 +1,7 @@
 import java.sql.SQLOutput;
 
 public class MultiCatchBlock2 {
+
     public static void main(String[] args) {
         try{
         int a[]=new int[5];
