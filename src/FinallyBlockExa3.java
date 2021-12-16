@@ -1,4 +1,5 @@
 public class FinallyBlockExa3 {
+
     public static void main(String[] args) {
         try {
             System.out.println(11/0);
