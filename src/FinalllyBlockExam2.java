@@ -7,6 +7,7 @@ public class FinalllyBlockExam2 {
         catch (NullPointerException obj){
             System.out.println(obj);
         }
+
         finally {
             System.out.println("finally block is always ececuted..");
         }
