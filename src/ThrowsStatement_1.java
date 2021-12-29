@@ -3,6 +3,7 @@ public class ThrowsStatement_1 {
 
         m2();
     }
+    
     public void m2()throws InterruptedException{
         System.out.println("Executed");
     }
