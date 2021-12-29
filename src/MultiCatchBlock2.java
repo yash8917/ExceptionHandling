@@ -14,7 +14,7 @@ public class MultiCatchBlock2 {
         catch (ArrayIndexOutOfBoundsException obj1){
             System.out.println("Array Exception");
         }
-        
+      
         catch (Exception obj2){
             System.out.println("Parent class Exception");
         }
