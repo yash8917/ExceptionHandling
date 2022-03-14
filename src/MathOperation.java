@@ -3,6 +3,7 @@
 //        obtain the sum and average of all the elements and display the result.
 //        Various exceptions that may arise like ArithmeticException,
 //        NumberFormatException, and so on should be handled.
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class MathOperation {
